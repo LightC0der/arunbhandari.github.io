@@ -1,5 +1,5 @@
 Website | Resume
-<br> Source code for arunbhandari.com.np
+<br> Source code for http://arunbhandari.com.np/
 # arunbhandari.github.io
 
 </br>
